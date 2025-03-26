@@ -31,30 +31,10 @@ Ska redovisas för lärare innan arbetet med kod börjar
 | Vecka | Måndag | Tisdag | Onsdag | Torsdag | Fredag |
 |---------|--------|----------|---------|----------|-|
 | 1 (14)|Info om arbetet. Start på egen planering. | Forts. egen planering. Presentation av planering (inkl product backlog och wireframe) i grupp med lärare. | Daily scrum. Eget arbete. | Daily scrum. Eget arbete. | Daily scrum. Eget arbete.|
-|2 (15)| |
+|2 (15)| Daily scrum. Eget arbete |  Daily scrum. Eget arbete |  Daily scrum. Eget arbete |  Daily scrum. Eget arbete |  Daily scrum. Sprint review + retro. Eget arbete. |
 
 
 
-
-
-
-
-
-Daily scrum
-
-Eget arbete
-Daily scrum
-
-Eget arbete
-Daily scrum
-
-Eget arbete
-Daily scrum
-
-Eget arbete
-Sprint review + retro 
-
-Eget arbete
 3 (16)
 Sprint planering + presentation i grupp
 Daily scrum
