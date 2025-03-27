@@ -12,7 +12,7 @@ Ni kommer tillhöra en grupp som har till syfte att vara lite bollplank och ge e
 * Arbetet sker i feature branches som mergas via PR. 
 * Tydliga commit meddelanden som vi lärare kan följa.
 * “Scrum”-liknande arbetssätt (se nedan) men kod i huvudsak enskilt. 
-(Deployment till Vercel eller dylikt)
+* (Deployment till Vercel eller dylikt om man vill)
 
 ### Planeringsstadie
 Ska redovisas för lärare innan arbetet med kod börjar
