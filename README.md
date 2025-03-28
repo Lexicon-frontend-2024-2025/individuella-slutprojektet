@@ -30,7 +30,7 @@ Ska redovisas för lärare innan arbetet med kod börjar
 
 | Vecka | Måndag | Tisdag | Onsdag | Torsdag | Fredag |
 |---------|--------|----------|-----------|----------|---------|
-| 1 (14)|Info om arbetet <br/>Start på egen planering | Forts. egen planering. <br/>Meddela oss lärare om inriktning på projekt | Presentation av planering (inkl product backlog och wireframe) i grupp med lärare<br/>Daily scrum<br/> Eget arbete | Daily scrum <br/>Eget arbete | Daily scrum <br/>Eget arbete|
+| 1 (14)|* Info om arbetet <br/>* Start på egen planering | * Forts. egen planering. <br/>* Meddela oss lärare om inriktning på projekt | * Presentation av planering (inkl product backlog och wireframe) i grupp med lärare<br/> * Eget arbete | * Daily scrum <br/>* Eget arbete | * Daily scrum <br/>* Eget arbete|
 |2 (15)| Daily scrum <br/>Eget arbete |  Daily scrum <br/>Eget arbete |  Daily scrum <br/>Eget arbete |  Daily scrum <br/>Eget arbete |  Daily scrum <br/>Sprint review + retro <br/>Eget arbete |
 | 3 (16) | Sprint planering + presentation i grupp <br/>Daily scrum | Eget arbete <br/>Daily scrum | Eget arbete <br/>Sprint review + retro | Eget arbete | Ledigt |
 | 4 (17) | Ledigt | Redovisning | Kursutvärdering | Start APL | APL |
