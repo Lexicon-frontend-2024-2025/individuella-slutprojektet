@@ -26,6 +26,14 @@ Ska redovisas för lärare innan arbetet med kod börjar
 * Daily scrum i grupp där ni formulerar till gruppen vad ert eget fokus är för dagen kopplat till pågående sprint. Här kan ni också be om ytterligare möten för stöd kring PR eller dylikt. Sker varje morgon vid bestämd tid.
 * Sprint review/retrospekt i grupp där ni demar och reflekterar vad ni gjort och får stöd med hur ni kan arbeta vidare.
 
+### Redovisning
+Redovisning sker tisdag 22/4. Redovisningen ska ta ca 5 min per person. Redovisningen sker i halvklass och vi startar 9.30. Redovisningen spelas in. Innehåll för redovisningen:
+* En demo på er app där ni delar skärm och visar. Inklusive felhantering eller annats som kan vara intressant. Ingen kod utan bara funktionalitet i webbläsaren.
+* Berätta om något som ni tyckte var extra lärorikt/spännande/roligt med utvecklingen av er app.
+
+### Utvärdering
+Projektutvärdering sker under onsdagen 23/4 där ni också får skriva lite om ert arbete med projektet i ett formulär. 
+
 ### Tidsplanering
 
 | Vecka | Måndag | Tisdag | Onsdag | Torsdag | Fredag |
